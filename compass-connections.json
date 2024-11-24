@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "b6d0aaca-ec7d-449e-b9fc-bc6be1edbc8c",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1732432114796"
+        }
+      },
+      "favorite": {
+        "name": "Vamos colocar o framework para acessar um banco!",
+        "color": "color5"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
